@@ -1,16 +1,29 @@
-## Hi there 👋
+ Hi, I'm Muhammad Hanzala 👋
 
-<!--
-**muhammadhanzalaa/muhammadhanzalaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student focused on building strong foundations in DevOps.
 
-Here are some ideas to get you started:
+## Current Focus (Jan–Oct 2025)
+- Linux fundamentals (processes, permissions, logs)
+- Git & GitHub workflow
+- Docker & CI/CD using GitHub Actions
+- Cloud fundamentals (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack (Learning & Using)
+- Linux, Bash
+- Git & GitHub
+- Docker
+- GitHub Actions (CI/CD)
+- Python (for DevOps automation)
+- AWS (beginner)
+
+## Projects
+- Linux for DevOps – in progress
+- Python for DevOps – upcoming
+- FastAPI + Docker + CI/CD – upcoming
+
+## Goals
+- Build production-style DevOps projects
+- Secure a remote DevOps internship or junior role
+
+## Contact
+- LinkedIn: (https://www.linkedin.com/in/hanzla-javed-468321341/?trk=PROFILE_DROP_DOWN)
